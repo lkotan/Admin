@@ -1,0 +1,22 @@
+.loader {
+  width: 200px;
+  position: absolute;
+  top: 60%;
+  left: 40%;
+}
+
+body {
+  background: url(/img/background.jpg);
+}
+
+.login {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.btn-extended {
+  display: block;
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+}
